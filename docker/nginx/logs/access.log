@@ -1,0 +1,8 @@
+172.18.0.1 - - [24/Sep/2020:19:55:18 +0000] "GET / HTTP/1.1" 502 559 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-"
+172.18.0.1 - - [24/Sep/2020:19:55:21 +0000] "GET /favicon.ico HTTP/1.1" 502 559 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-"
+172.18.0.1 - - [24/Sep/2020:19:59:18 +0000] "GET / HTTP/1.1" 200 1663 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-"
+172.18.0.1 - - [24/Sep/2020:19:59:18 +0000] "GET /_nuxt/c130106.js HTTP/1.1" 200 1152 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-"
+172.18.0.1 - - [24/Sep/2020:19:59:18 +0000] "GET /_nuxt/ab78769.js HTTP/1.1" 200 1346 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-"
+172.18.0.1 - - [24/Sep/2020:19:59:18 +0000] "GET /_nuxt/245677d.js HTTP/1.1" 200 17282 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-"
+172.18.0.1 - - [24/Sep/2020:19:59:18 +0000] "GET /_nuxt/40ed617.js HTTP/1.1" 200 63878 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-"
+172.18.0.1 - - [24/Sep/2020:19:59:18 +0000] "GET /favicon.ico HTTP/1.1" 200 1428 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-"
